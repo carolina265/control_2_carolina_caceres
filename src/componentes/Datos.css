@@ -1,0 +1,15 @@
+.datos-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #45d7eb;
+  }
+  
+  .datos-container h1 {
+    font-size: 2rem;
+    color: #343a40;
+  }
+
+ 
+  
